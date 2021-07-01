@@ -4,7 +4,9 @@ Author: zx
 
 reference: 《马克思主义基本原理概论》期末复习指南、肖秀荣、徐涛
 
-tools: typora vscode + markmap
+tools: typora & vscode + markmap
+
+推荐把整个仓库clone下去，用typora打开文件夹查看
 
 ---
 
