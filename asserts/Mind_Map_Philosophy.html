@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta http-equiv="X-UA-Compatible" content="ie=edge">
+<title>Markmap</title>
+<style>
+* {
+  margin: 0;
+  padding: 0;
+}
+#mindmap {
+  display: block;
+  width: 100vw;
+  height: 100vh;
+}
+</style>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/markmap-toolbar@0.1.5/dist/style.min.css">
+</head>
+<body>
+<svg id="mindmap"></svg>
+<script src="https://cdn.jsdelivr.net/npm/d3@6.6.0"></script><script src="https://cdn.jsdelivr.net/npm/markmap-view@0.2.3"></script><script src="https://cdn.jsdelivr.net/npm/markmap-toolbar@0.1.5/dist/index.umd.min.js"></script><script>(r => {
+                setTimeout(r);
+              })(() => {
+  const {
+    markmap,
+    mm
+  } = window;
+  const toolbar = new markmap.Toolbar();
+  toolbar.attach(mm);
+  const el = toolbar.render();
+  el.setAttribute('style', 'position:absolute;bottom:20px;right:20px');
+  document.body.append(el);
+})</script><script>((getMarkmap, getOptions, data) => {
+        const {
+          Markmap
+        } = getMarkmap();
+        window.mm = Markmap.create('svg#mindmap', getOptions == null ? void 0 : getOptions(), data);
+      })(() => window.markmap,null,{"t":"heading","d":1,"p":{"lines":[0,1]},"v":"哲学划分","c":[{"t":"heading","d":2,"p":{"lines":[2,3]},"v":"世界本原问题（哲学基本问题第一方面）","c":[{"t":"list_item","d":4,"p":{"lines":[4,5]},"v":"唯物主义：把世界本原归为物质，主张物质第一性，意识第二性，物质决定意识。可知论。"},{"t":"list_item","d":4,"p":{"lines":[5,6]},"v":"唯心主义：把世界本原归为意识，主张意识第一性，物质第二性，意识决定物质。可知论。"},{"t":"list_item","d":4,"p":{"lines":[6,7]},"v":"不彻底的唯心主义：二元论。两者都是第一性。不可知论。"}]},{"t":"heading","d":2,"p":{"lines":[8,9]},"v":"世界是否可知的问题（哲学基本问题第二方面）","c":[{"t":"list_item","d":4,"p":{"lines":[10,11]},"v":"可知论：世界是可以被认知的，存在和思维具有同一性"},{"t":"list_item","d":4,"p":{"lines":[11,12]},"v":"不可知论：世界是不能被人所认知的或不能被完全认知的，否认存在和思维的同一性"}]},{"t":"heading","d":2,"p":{"lines":[13,14]},"v":"世界是怎样存在的问题","c":[{"t":"list_item","d":4,"p":{"lines":[15,16]},"v":"辩证法：坚持用联系的、发展的观点看世界，认为发展的根本原因在于事物的内部矛盾"},{"t":"list_item","d":4,"p":{"lines":[16,17]},"v":"形而上学：坚持用孤立的、静止的观点看问题，否认事物内部矛盾的存在和作用"}]},{"t":"heading","d":2,"p":{"lines":[18,19]},"v":"社会历史观的基本问题","c":[{"t":"list_item","d":4,"p":{"lines":[20,21]},"v":"历史唯物主义（唯物史观）认为社会存在决定社会意识"},{"t":"list_item","d":4,"p":{"lines":[21,22]},"v":"历史唯心主义（唯心史观）认为社会意识决定社会存在"}]}]})</script>
+</body>
+</html>
