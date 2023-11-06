@@ -1,0 +1,36 @@
+{
+	"nodes":[
+		{"type":"file","file":"200 文献笔记/线下课程/格院大三上课程/马克思主义基本原理课程/马原理/哲学/认识论/实践主体和客体相互作用的关系.md","id":"9d41030db5280287","x":431,"y":-197,"width":400,"height":400,"color":"3"},
+		{"type":"file","file":"200 文献笔记/线下课程/格院大三上课程/马克思主义基本原理课程/《马克思主义基本原理》/第二章 实践与认识及其发展规律/第—节 实践与认识/实践对认识的决定作用.md","id":"1cdd8b0254b0770d","x":-1518,"y":812,"width":400,"height":373,"color":"1"},
+		{"type":"file","file":"200 文献笔记/线下课程/格院大三上课程/马克思主义基本原理课程/《马克思主义基本原理》/第二章 实践与认识及其发展规律/第—节 实践与认识/实践的基本特征.md","id":"dd1c4a0a0d6eef1e","x":-861,"y":-535,"width":400,"height":415,"color":"3"},
+		{"type":"file","file":"200 文献笔记/线下课程/格院大三上课程/马克思主义基本原理课程/《马克思主义基本原理》/第二章 实践与认识及其发展规律/第—节 实践与认识/实践的基本结构.md","id":"c580d0ccbe3074cf","x":-861,"y":73,"width":400,"height":283,"color":"3"},
+		{"type":"file","file":"200 文献笔记/线下课程/格院大三上课程/马克思主义基本原理课程/马原理/哲学/认识论/实践的基本形式.md","id":"166dd5dc3a57a3b1","x":-861,"y":492,"width":400,"height":228,"color":"3"},
+		{"type":"file","file":"200 文献笔记/线下课程/格院大三上课程/马克思主义基本原理课程/《马克思主义基本原理》/第二章 实践与认识及其发展规律/第—节 实践与认识/实践的本质.md","id":"59e039dcfe4e3576","x":-861,"y":-939,"width":400,"height":333,"color":"3"},
+		{"type":"file","file":"200 文献笔记/线下课程/格院大三上课程/马克思主义基本原理课程/马原理/哲学/认识论/错误的实践观.md","id":"ee3eebdad74a7670","x":-1518,"y":-1184,"width":400,"height":443,"color":"3"},
+		{"type":"file","file":"200 文献笔记/线下课程/格院大三上课程/马克思主义基本原理课程/马原理/哲学/认识论/实践（马原）.md","id":"f0eab463f48b95df","x":-1518,"y":-606,"width":400,"height":381,"color":"3"},
+		{"type":"file","file":"200 文献笔记/线下课程/格院大三上课程/马克思主义基本原理课程/《马克思主义基本原理》/第二章 实践与认识及其发展规律/第—节 实践与认识/物质性工具系统.md","id":"d2697b32a08277cf","x":431,"y":410,"width":400,"height":221,"color":"3"},
+		{"type":"file","file":"200 文献笔记/线下课程/格院大三上课程/马克思主义基本原理课程/《马克思主义基本原理》/第二章 实践与认识及其发展规律/第—节 实践与认识/语言符号工具系统.md","id":"4f8d99bf8f6e7629","x":431,"y":685,"width":400,"height":222,"color":"3"},
+		{"type":"file","file":"200 文献笔记/线下课程/格院大三上课程/马克思主义基本原理课程/《马克思主义基本原理》/第二章 实践与认识及其发展规律/第—节 实践与认识/实践主体.md","id":"970a566242264925","x":-213,"y":-449,"width":400,"height":400,"color":"3"},
+		{"type":"file","file":"200 文献笔记/线下课程/格院大三上课程/马克思主义基本原理课程/《马克思主义基本原理》/第二章 实践与认识及其发展规律/第—节 实践与认识/实践中介.md","id":"7c282f638d270416","x":-213,"y":492,"width":400,"height":277,"color":"3"},
+		{"type":"file","file":"200 文献笔记/线下课程/格院大三上课程/马克思主义基本原理课程/《马克思主义基本原理》/第二章 实践与认识及其发展规律/第—节 实践与认识/实践客体.md","id":"9e827f4411899cd6","x":-213,"y":52,"width":400,"height":302,"color":"3"},
+		{"type":"file","file":"200 文献笔记/线下课程/格院大三上课程/马克思主义基本原理课程/马原理/哲学/认识论/主体客体化.md","id":"9f332a2c0de99c7b","x":1118,"y":-394,"width":400,"height":358,"color":"3"},
+		{"type":"file","file":"200 文献笔记/线下课程/格院大三上课程/马克思主义基本原理课程/马原理/哲学/认识论/客体主体化.md","id":"975b584269570631","x":1118,"y":27,"width":400,"height":353,"color":"3"}
+	],
+	"edges":[
+		{"id":"3242fc390e635992","fromNode":"9d41030db5280287","fromSide":"right","toNode":"9f332a2c0de99c7b","toSide":"left"},
+		{"id":"d19b8ff6c2cf3039","fromNode":"9d41030db5280287","fromSide":"right","toNode":"975b584269570631","toSide":"left"},
+		{"id":"45e941a7431e72b3","fromNode":"970a566242264925","fromSide":"right","toNode":"9d41030db5280287","toSide":"left"},
+		{"id":"b9bb455f7ae343bd","fromNode":"9e827f4411899cd6","fromSide":"right","toNode":"9d41030db5280287","toSide":"left"},
+		{"id":"fc792005796696b6","fromNode":"f0eab463f48b95df","fromSide":"bottom","toNode":"1cdd8b0254b0770d","toSide":"top"},
+		{"id":"fc4b3585596e7180","fromNode":"f0eab463f48b95df","fromSide":"right","toNode":"dd1c4a0a0d6eef1e","toSide":"left"},
+		{"id":"226ea66b6268fdb0","fromNode":"c580d0ccbe3074cf","fromSide":"right","toNode":"970a566242264925","toSide":"left"},
+		{"id":"e901936643e749af","fromNode":"c580d0ccbe3074cf","fromSide":"right","toNode":"9e827f4411899cd6","toSide":"left"},
+		{"id":"b5c028b1408079bd","fromNode":"c580d0ccbe3074cf","fromSide":"right","toNode":"7c282f638d270416","toSide":"left"},
+		{"id":"a665202b450851b6","fromNode":"f0eab463f48b95df","fromSide":"right","toNode":"c580d0ccbe3074cf","toSide":"left"},
+		{"id":"335ab9e9cec0e650","fromNode":"f0eab463f48b95df","fromSide":"right","toNode":"166dd5dc3a57a3b1","toSide":"left"},
+		{"id":"2287426d2be76107","fromNode":"f0eab463f48b95df","fromSide":"right","toNode":"59e039dcfe4e3576","toSide":"left"},
+		{"id":"8d20539ccaee4848","fromNode":"ee3eebdad74a7670","fromSide":"bottom","toNode":"f0eab463f48b95df","toSide":"top"},
+		{"id":"324dd84b9c5c4575","fromNode":"7c282f638d270416","fromSide":"right","toNode":"d2697b32a08277cf","toSide":"left"},
+		{"id":"e946f81bc7d78685","fromNode":"7c282f638d270416","fromSide":"right","toNode":"4f8d99bf8f6e7629","toSide":"left"}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"nodes":[
+		{"type":"file","file":"200 文献笔记/线下课程/格院大三上课程/马克思主义基本原理课程/马原理/哲学/唯物辩证法/唯物辩证法的三大规律.md","id":"3fff98e3275315d1","x":-1742,"y":506,"width":400,"height":304},
+		{"type":"file","file":"200 文献笔记/线下课程/格院大三上课程/马克思主义基本原理课程/马原理/对立统一规律.canvas","id":"ed38621359cbb227","x":-1012,"y":-94,"width":400,"height":400},
+		{"type":"file","file":"200 文献笔记/线下课程/格院大三上课程/马克思主义基本原理课程/马原理/量变质变规律.canvas","id":"fb6da544bcfee3b7","x":-1012,"y":410,"width":400,"height":400},
+		{"id":"e882d486c81fe1b2","x":-1012,"y":946,"width":400,"height":400,"type":"file","file":"200 文献笔记/线下课程/格院大三上课程/马克思主义基本原理课程/马原理/否定之否定规律.canvas"},
+		{"type":"file","file":"200 文献笔记/线下课程/格院大三上课程/马克思主义基本原理课程/《马克思主义基本原理》/第一章 世界的物质性及发展规律/第三节 唯物辩证法是认识世界和改造世界的根本方法/唯物辩证法是客观辩证法与主观辩证法的统一.md","id":"ecced5c6d8e3edff","x":-1012,"y":1409,"width":400,"height":331,"color":"3"},
+		{"type":"text","text":"辩证思维方法：\n\n- 归纳与演绎\n- 分析与综合\n- 抽象与具体\n- 历史和逻辑\n","id":"760d6efab7ad9b66","x":-1012,"y":1802,"width":169,"height":181}
+	],
+	"edges":[
+		{"id":"11db2e22b9a10689","fromNode":"3fff98e3275315d1","fromSide":"right","toNode":"ed38621359cbb227","toSide":"left"},
+		{"id":"fa773dd6c2a328ab","fromNode":"3fff98e3275315d1","fromSide":"right","toNode":"ecced5c6d8e3edff","toSide":"left"},
+		{"id":"b4f2beeded678f57","fromNode":"3fff98e3275315d1","fromSide":"right","toNode":"760d6efab7ad9b66","toSide":"left"},
+		{"id":"18d3e56ba9b3f9a3","fromNode":"3fff98e3275315d1","fromSide":"right","toNode":"fb6da544bcfee3b7","toSide":"left"},
+		{"id":"853dcacbec7b2cd7","fromNode":"3fff98e3275315d1","fromSide":"right","toNode":"e882d486c81fe1b2","toSide":"left"}
+	]
+}

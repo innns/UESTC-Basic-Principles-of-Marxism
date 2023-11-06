@@ -1,0 +1,21 @@
+{
+	"nodes":[
+		{"type":"file","file":"200 文献笔记/线下课程/格院大三上课程/马克思主义基本原理课程/马原理/导论/马克思主义的鲜明特征.md","id":"ddcbe8bd6828db18","x":-166,"y":329,"width":400,"height":652,"color":"3"},
+		{"type":"file","file":"200 文献笔记/线下课程/格院大三上课程/马克思主义基本原理课程/马原理/导论/马克思主义的思想渊源.md","id":"59734a7165776e7f","x":561,"y":136,"width":418,"height":345,"color":"3"},
+		{"type":"text","text":"## 导论","id":"0cc1558a4fe6ac49","x":-979,"y":-76,"width":120,"height":84},
+		{"type":"file","file":"200 文献笔记/线下课程/格院大三上课程/马克思主义基本原理课程/马原理/导论/马克思主义的来源.md","id":"337ea9e0e7a68e67","x":-166,"y":-317,"width":400,"height":474,"color":"3"},
+		{"type":"file","file":"200 文献笔记/线下课程/格院大三上课程/马克思主义基本原理课程/马原理/导论/马克思主义的阶级基础.md","id":"6bdd40950fe0ea28","x":561,"y":-197,"width":418,"height":214,"color":"3"},
+		{"type":"text","text":"马克思主义的内涵可以从创立者、内容、目的、立场和作用这几个方面来展开\n\n马克思主义包括：马克思主义哲学、马克思主义政治经济学、科学社会主义\n\n>[! note]\n>哲学是方法、主体是政治经济学、科社是归宿","id":"c779a0f4241f4a76","x":-167,"y":-981,"width":250,"height":325},
+		{"type":"file","file":"200 文献笔记/线下课程/格院大三上课程/马克思主义基本原理课程/马原理/导论/马克思主义产生的经济社会历史条件.md","id":"0335f634c0bef749","x":561,"y":-559,"width":400,"height":242,"color":"3"},
+		{"type":"text","text":"马克思主义的基本立场、观点和方法\n\n立场：站在无产阶级、人民的一方\n\n观点：关于自然、社会、人的发展规律\n\n方法：辩证唯物主义和历史唯物主义","id":"1af5764bed7f103d","x":561,"y":-963,"width":250,"height":289}
+	],
+	"edges":[
+		{"id":"fdc2b22ed9f06148","fromNode":"0cc1558a4fe6ac49","fromSide":"right","toNode":"ddcbe8bd6828db18","toSide":"left"},
+		{"id":"775a6c8bca134fa0","fromNode":"337ea9e0e7a68e67","fromSide":"right","toNode":"59734a7165776e7f","toSide":"left"},
+		{"id":"a3a1e660f3f570c8","fromNode":"0cc1558a4fe6ac49","fromSide":"right","toNode":"c779a0f4241f4a76","toSide":"left"},
+		{"id":"6494e3faf9ea0984","fromNode":"0cc1558a4fe6ac49","fromSide":"right","toNode":"337ea9e0e7a68e67","toSide":"left"},
+		{"id":"69dc71fdee63f1d6","fromNode":"337ea9e0e7a68e67","fromSide":"right","toNode":"0335f634c0bef749","toSide":"left"},
+		{"id":"3a6c18e7517d1b51","fromNode":"337ea9e0e7a68e67","fromSide":"right","toNode":"6bdd40950fe0ea28","toSide":"left"},
+		{"id":"6e87c17c269c0077","fromNode":"c779a0f4241f4a76","fromSide":"right","toNode":"1af5764bed7f103d","toSide":"left"}
+	]
+}

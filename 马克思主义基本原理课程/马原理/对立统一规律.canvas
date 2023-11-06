@@ -1,0 +1,31 @@
+{
+	"nodes":[
+		{"type":"file","file":"200 文献笔记/线下课程/格院大三上课程/马克思主义基本原理课程/马克思主义基本原理/对立统一规律.md","id":"be51a1d50a31fc2b","x":-1399,"y":-500,"width":400,"height":431,"color":"1"},
+		{"type":"file","file":"200 文献笔记/线下课程/格院大三上课程/马克思主义基本原理课程/马原理/哲学/唯物辩证法/对立统一规律是唯物辩证法的实质和核心.md","id":"998dc0b716f3af41","x":-1414,"y":-1101,"width":431,"height":431,"color":"1"},
+		{"type":"file","file":"200 文献笔记/线下课程/格院大三上课程/马克思主义基本原理课程/马原理/哲学/对立统一规律的方法论意义.md","id":"f0d0fbd6c50d2fb2","x":-1398,"y":155,"width":400,"height":367,"color":"1"},
+		{"type":"file","file":"200 文献笔记/线下课程/格院大三上课程/马克思主义基本原理课程/马原理/哲学/矛盾的同一性.md","id":"96df3f1a41ec83d6","x":-532,"y":-1047,"width":400,"height":307,"color":"1"},
+		{"type":"file","file":"200 文献笔记/线下课程/格院大三上课程/马克思主义基本原理课程/马原理/哲学/唯物辩证法/矛盾的同一性和斗争性的对立统一关系.md","id":"e048512a52295a41","x":-532,"y":-616,"width":400,"height":646,"color":"1"},
+		{"type":"file","file":"200 文献笔记/线下课程/格院大三上课程/马克思主义基本原理课程/马原理/哲学/唯物辩证法/矛盾的斗争性.md","id":"101e9d8e8b116d41","x":-532,"y":193,"width":400,"height":275,"color":"1"},
+		{"type":"file","file":"200 文献笔记/线下课程/格院大三上课程/马克思主义基本原理课程/马原理/哲学/唯物辩证法/矛盾的同一性在事物发展中的作用.md","id":"8336339816983ccc","x":248,"y":-937,"width":400,"height":626,"color":"1"},
+		{"type":"file","file":"200 文献笔记/线下课程/格院大三上课程/马克思主义基本原理课程/马原理/哲学/唯物辩证法/矛盾的斗争性在事物发展中的作用.md","id":"27620245195a60a7","x":245,"y":-200,"width":400,"height":461,"color":"1"},
+		{"type":"file","file":"200 文献笔记/线下课程/格院大三上课程/马克思主义基本原理课程/马原理/哲学/唯物辩证法/同一性和斗争性在事物发展中的作用的方法论意义.md","id":"becc829f7b26a09e","x":1014,"y":-495,"width":400,"height":368,"color":"1"},
+		{"type":"file","file":"200 文献笔记/线下课程/格院大三上课程/马克思主义基本原理课程/《马克思主义基本原理》/第一章 世界的物质性及发展规律/第二节 事物的普遍联系和变化发展/矛盾的普遍性和特殊性的辩证关系原理.md","id":"de55bbb4d8d376b4","x":248,"y":421,"width":400,"height":353,"color":"1"},
+		{"type":"file","file":"200 文献笔记/线下课程/格院大三上课程/马克思主义基本原理课程/马原理/哲学/唯物辩证法/矛盾的普遍性和特殊性的方法论意义.md","id":"0a41e812ad260c0f","x":248,"y":834,"width":400,"height":267,"color":"1"},
+		{"type":"file","file":"200 文献笔记/线下课程/格院大三上课程/马克思主义基本原理课程/马原理/哲学/唯物辩证法/矛盾的普遍性和特殊性.md","id":"20a64a7661478006","x":-532,"y":568,"width":400,"height":400,"color":"1"}
+	],
+	"edges":[
+		{"id":"051efa1157f8dab5","fromNode":"be51a1d50a31fc2b","fromSide":"right","toNode":"96df3f1a41ec83d6","toSide":"left"},
+		{"id":"787a4839bbe59798","fromNode":"be51a1d50a31fc2b","fromSide":"right","toNode":"101e9d8e8b116d41","toSide":"left"},
+		{"id":"0414f1112e09af59","fromNode":"be51a1d50a31fc2b","fromSide":"bottom","toNode":"f0d0fbd6c50d2fb2","toSide":"top"},
+		{"id":"7d3b3105ea8f6aad","fromNode":"be51a1d50a31fc2b","fromSide":"top","toNode":"998dc0b716f3af41","toSide":"bottom"},
+		{"id":"491cc700193994bf","fromNode":"be51a1d50a31fc2b","fromSide":"right","toNode":"20a64a7661478006","toSide":"left"},
+		{"id":"68c3ac8cbb27dc63","fromNode":"96df3f1a41ec83d6","fromSide":"bottom","toNode":"e048512a52295a41","toSide":"top"},
+		{"id":"4a186e4b00d1f961","fromNode":"96df3f1a41ec83d6","fromSide":"right","toNode":"8336339816983ccc","toSide":"left"},
+		{"id":"2051ce0f71789271","fromNode":"101e9d8e8b116d41","fromSide":"top","toNode":"e048512a52295a41","toSide":"bottom"},
+		{"id":"bfdf8096182b5e82","fromNode":"101e9d8e8b116d41","fromSide":"right","toNode":"27620245195a60a7","toSide":"left"},
+		{"id":"7cee603ceec0dcaf","fromNode":"8336339816983ccc","fromSide":"right","toNode":"becc829f7b26a09e","toSide":"left"},
+		{"id":"1dec382f04233f69","fromNode":"27620245195a60a7","fromSide":"right","toNode":"becc829f7b26a09e","toSide":"left"},
+		{"id":"10dab43fafc1c778","fromNode":"20a64a7661478006","fromSide":"right","toNode":"de55bbb4d8d376b4","toSide":"left"},
+		{"id":"a8c6ce9805511b81","fromNode":"20a64a7661478006","fromSide":"right","toNode":"0a41e812ad260c0f","toSide":"left"}
+	]
+}
