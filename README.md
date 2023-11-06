@@ -1,18 +1,19 @@
 # 马原复习摘要
 
-Author: zx
+Author: zx hesheng 
 
 reference: 《马克思主义基本原理概论》期末复习指南、肖秀荣、徐涛
 
 tools: typora & vscode + markmap
+推荐 obsidian
 
-推荐把整个仓库clone下去，用typora打开文件夹查看
+推荐把整个仓库clone下去，用obsidian打开文件夹查看
 
 ---
 
-## 麻了麻了 复习不完了 有空继续搞这个仓库了
-## 本仓库只写了第一章！！！！！！！！！！！！！
 ## README
+
+## 继续填坑了 在hesheng的努力下完成了这个仓库
 
 **题型**：
 
